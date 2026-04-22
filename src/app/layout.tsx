@@ -11,8 +11,8 @@ import { Figtree } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Luton Tea | Premium Artisanal Tea Experience',
-  description: 'Discover Luton Tea, your destination for hand-harvested, organic, and premium artisanal tea blends crafted for every connoisseur.',
+  title: "Luton Tea | A Premium Mixture Of Blend",
+  description: "Discover Luton Tea, your destination for hand-harvested, organic Tea From Kenya, and premium artisanal tea blends crafted for every connoisseur.",
   openGraph: {
     "title": "Luton Tea | Premium Artisanal Tea",
     "description": "Experience the tradition and purity of the world's finest tea blends.",
